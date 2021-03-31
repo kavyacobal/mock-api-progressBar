@@ -25,5 +25,103 @@
 		"NavigationTitle": "UCA",
 		"Link": "/Member-Portal/OnboardingUCA"
 	}]
+},
+"hierarchyData":{
+	"programId":"1",
+	 "hierarchyStruture": [
+      {
+        "tierTitle": "Concierge - HCW Development Regions",
+        "id": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
+        "isResponsible": false,
+        "isChecked": true,
+        "address": null,
+        "children": [
+          {
+            "tierTitle": "Aloft Glendale - HCW",
+            "id": "ddc1fdcf-b23b-eb11-a813-000d3a30f12c",
+            "isResponsible": true,
+            "isChecked": false,
+	    "isEnrolledPending":true,
+            "address": {
+                       "street1": "string",
+          "street2": "string",
+          "fullAddress": "string",
+          "city": "string",
+          "state": "string",
+          "county": "string",
+          "zipCode": "string",
+          "country": "string"
+            },
+            "children": []
+          },
+          {
+            "tierTitle": "Aloft Glendale - HCW 1",
+            "id": "4126c7fa-eb39-eb11-a813-000d3a33f1c1",
+            "isResponsible": false,
+            "isChecked": false,
+	    "isEnrolledPending":true,
+            "address": null,
+            "children": []
+          },
+          {
+            "tierTitle": "Arizona Region HCW Test",
+            "id": "0a2c8b78-b43b-eb11-a813-000d3a33f70f",
+            "isResponsible": false,
+            "isChecked": false,
+            "address": null,
+            "children": [
+              {
+                "tierTitle": "Springhill Suites Goodyear - HCW",
+                "id": "7a1bf2d5-f348-eb11-bf68-000d3a33f4ca",
+                "isResponsible": false,
+                "isChecked": false,
+		"isEnrolledPending":true,
+                "address": {
+                  "street1": "",
+                  "street2": "",
+                  "city": "",
+                  "state": "",
+                  "county": "",
+                  "zipCode": ""
+                },
+                "children": []
+              },
+              
+              {
+                "tierTitle": "Tru by Hilton Goodyear - HCW",
+                "id": "7c1bf2d5-f348-eb11-bf68-000d3a33f4ca",
+                "isResponsible": true,
+                "isChecked": false,
+                "address": {
+                  "street1": "",
+                  "street2": "",
+                  "city": "",
+                  "state": "",
+                  "county": "",
+                  "zipCode": ""
+                },
+                "children": []
+              },
+              
+              {
+                "tierTitle": "Tru by Hilton Goodyear - HCW 1",
+                "id": "9ca16072-ce50-eb11-bf68-000d3a33f70f",
+                "isResponsible": true,
+                "isChecked": false,
+                "address": {
+                  "street1": "",
+                  "street2": "",
+                  "city": "",
+                  "state": "",
+                  "county": "",
+                  "zipCode": ""
+                },
+                "children": [ ]
+              }   
+            ]
+	  }
+          ]
+          }
+	]
 }
 }
