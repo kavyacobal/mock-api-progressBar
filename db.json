@@ -123,5 +123,9 @@
           ]
           }
 	]
+},
+"distilr":{
+  "isDistilrAccess": true,
+  "distilrAppName": "Distilr"
 }
 }
