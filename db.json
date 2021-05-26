@@ -127,5 +127,85 @@
 "distilr":{
   "isDistilrAccess": true,
   "distilrAppName": "Distilr"
-}
+},
+	"ucaTabs":[
+  {
+    "programId": "ed83845d-21e5-e911-a985-000d3a328ed9",
+    "programName": "Atlantic Distributors Inc. - NT",
+    "locations": [
+      {
+        "locationId": "4e5ff185-0978-eb11-a812-000d3a59359f",
+        "locationName": "Califonia",
+       "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "NY, Alaska 124 United States",
+          "city": "NY",
+          "state": "Alaska",
+          "county": null,
+          "zipcode": "124",
+          "country": "United States"
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-1000449",
+    "foodBuyUCARequired": true,
+    "supplierProvidedUCA": false,
+    "thirdPartyUCA": false
+  },
+{
+    "programId": "cg83845d-21e5-e911-a985-000d3a328234",
+    "programName": "Pacific ocean Distributors Inc. - NT",
+    "locations": [
+      {
+        "locationId": "7e5ff185-0978-eb11-a812-000d3a583595",
+        "locationName": "Califonia",
+       "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "NY, Alaska 124 United States",
+          "city": "NY",
+          "state": "Alaska",
+          "county": null,
+          "zipcode": "124",
+          "country": "United States"
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-1000000",
+    "foodBuyUCARequired": true,
+    "supplierProvidedUCA": false,
+    "thirdPartyUCA": false
+  },
+  {
+    "programId": "hv83845d-21e5-e911-a985-000d3a328djhd",
+    "programName": "Jean Distributors Inc.",
+    "locations": [
+      {
+        "locationId": "985ff185-0978-eb11-a812-000d3a5596",
+        "locationName": "Califonia",
+        "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "NY, Alaska 124 United States",
+          "city": "NY",
+          "state": "Alaska",
+          "county": null,
+          "zipcode": "124",
+          "country": "United States"
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-10003345",
+    "foodBuyUCARequired": false,
+    "supplierProvidedUCA": true,
+    "thirdPartyUCA": false
+  }
+]
 }
