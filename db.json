@@ -241,6 +241,6 @@
   }
 ],
 "termsAndConditions":{
-	"termsAndConditionsAccepted":false
+	"isTermsAndConditionsAccepted":false
 }
 }
