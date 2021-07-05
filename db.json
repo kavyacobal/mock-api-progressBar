@@ -12,7 +12,11 @@
 	"ProgressBar": [{
 		"NavigationTitle": "Contact",
 		"Link": "/Member-Portal/OnboardingSteps"
-	}, {
+	},{
+		"NavigationTitle": "Hierarchy",
+		"Link": "/Member-Portal/OnboardingHierarchy"
+	},
+			{
 		"NavigationTitle": "Locations",
 		"Link": "/Member-Portal/OnboardingLocations"
 	}, {
