@@ -23,9 +23,6 @@
 		"NavigationTitle": "Programs",
 		"Link": "/Member-Portal/OnboardingPrograms"
 	}, {
-		"NavigationTitle": "eLOP1",
-		"Link": "/Member-Portal/OnboardingeLOP"
-	}, {
 		"NavigationTitle": "UCA",
 		"Link": "/Member-Portal/OnboardingUCA"
 	}]
